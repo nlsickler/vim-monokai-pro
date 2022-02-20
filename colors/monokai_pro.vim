@@ -16,6 +16,9 @@ let g:colors_name = "monokai_pro"
 hi Cursor ctermfg=236 ctermbg=231 cterm=NONE guifg=#2d2a2e guibg=#fcfcfa gui=NONE
 hi SignColumn ctermfg=NONE ctermbg=235 cterm=NONE guibg=#262626 guifg=NONE guisp=NONE gui=NONE
 hi Visual ctermfg=NONE ctermbg=238 cterm=NONE guifg=NONE guibg=#403e41 gui=NONE
+hi VisualNOS ctermfg=NONE ctermbg=238 cterm=NONE guifg=NONE guibg=#403e41 gui=NONE
+hi WildMenu ctermfg=NONE ctermbg=238 cterm=NONE guifg=NONE guibg=#403e41 gui=NONE
+hi QuickFixLine ctermfg=NONE ctermbg=238 cterm=NONE guifg=NONE guibg=#403e41 gui=NONE
 hi CursorLine ctermfg=NONE ctermbg=235 cterm=NONE guifg=NONE guibg=#262626 gui=NONE
 hi CursorColumn ctermfg=NONE ctermbg=59 cterm=NONE guifg=NONE guibg=#423f42 gui=NONE
 hi ColorColumn ctermfg=NONE ctermbg=59 cterm=NONE guifg=NONE guibg=#423f42 gui=NONE
